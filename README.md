@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there! I'm Doug Perez 👋
 
 [![LinkedIn](https://img.shields.io/badge/dougperez%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/doug-perez/)](https://www.linkedin.com/in/doug-perez/)
