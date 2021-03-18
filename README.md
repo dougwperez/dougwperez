@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/dougperez%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:perezcpt@gmail.com)](mailto:perezcpt@gmail.com)
 
 - :round_pushpin: **Portfolio:** https://www.dougwperez.com/ 
-- Based in San Franciso Bay Area, CA
+-  Based in San Franciso Bay Area, CA
 
 ### Languages & Tools
 
