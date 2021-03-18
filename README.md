@@ -1,5 +1,5 @@
 ### Hi there! I'm Doug Perez 👋 [![LinkedIn](https://img.shields.io/badge/dougperez%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/doug-perez/)](https://www.linkedin.com/in/doug-perez/)
-[![GitHub](https://img.shields.io/badge/dougperez%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/dougwperez)](https://github.com/dougwperez)
+[![GitHub](https://img.shields.io/badge/dougperez%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/dougwperez)](https://github.com/dougwperez) &nbsp;
 [![Gmail](https://img.shields.io/badge/dougperez%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:perezcpt@gmail.com)](mailto:perezcpt@gmail.com)
 
 - :pushpin: &nbsp; **Portfolio:** https://www.dougwperez.com
