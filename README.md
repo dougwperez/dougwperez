@@ -1,4 +1,4 @@
-:pushpin: &nbsp; ** Updated Portfolio:** https://www.douglaswperez.com :pushpin:
+:pushpin: &nbsp; **Updated Portfolio:** https://www.douglaswperez.com :pushpin:
 ### Hi there! I'm Doug Perez &nbsp; 👋  &nbsp; &nbsp;[![LinkedIn](https://img.shields.io/badge/dougperez%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/doug-perez/)](https://www.linkedin.com/in/doug-perez/) &nbsp; [![Gmail](https://img.shields.io/badge/dougperez%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:perezcpt@gmail.com)](mailto:perezcpt@gmail.com)
 
 - :pushpin: &nbsp; **Portfolio:** https://www.douglaswperez.com :pushpin:
