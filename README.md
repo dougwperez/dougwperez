@@ -1,5 +1,5 @@
 
-### Hi there! I'm Doug Perez &nbsp; 👋  &nbsp; &nbsp;[![LinkedIn](https://img.shields.io/badge/dougperez%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/doug-perez/)](https://www.linkedin.com/in/doug-perez/) &nbsp; [![Gmail](https://img.shields.io/badge/dougperez%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:perezcpt@gmail.com)](mailto:perezcpt@gmail.com)
+### Hi there! I'm Doug Perez. &nbsp; 👋  &nbsp; Check out my Portfolio below.  &nbsp;[![LinkedIn](https://img.shields.io/badge/dougperez%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/doug-perez/)](https://www.linkedin.com/in/doug-perez/) &nbsp; [![Gmail](https://img.shields.io/badge/dougperez%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:perezcpt@gmail.com)](mailto:perezcpt@gmail.com)
 
 - :pushpin: &nbsp; **PORTFOLIO:** https://www.douglaswperez.com :pushpin:
 - :heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/
