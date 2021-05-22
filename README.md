@@ -3,8 +3,8 @@
 
  :pushpin: &nbsp; **PORTFOLIO:** https://www.douglaswperez.com :pushpin:  
  :heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/ <br/>
- :heavy_check_mark: &nbsp; Based in San Franciso Bay Area, CA  
- ![image](https://user-images.githubusercontent.com/56580725/119219162-ea156c80-ba98-11eb-966d-c51f028967fc.png)
+ :📍: &nbsp; Based in San Franciso Bay Area, CA  
+ 
 
 
 ### Languages & Tools:
