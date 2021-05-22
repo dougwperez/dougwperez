@@ -3,7 +3,8 @@
 
  :pushpin: &nbsp; **Portfolio:** https://www.douglaswperez.com &nbsp;👈 <br/>
  :heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/ <br/>
- :round_pushpin: &nbsp; **Location:** San Franciso Bay Area, CA  
+ :round_pushpin: &nbsp; **Location:** San Franciso Bay Area, CA 
+ :envelope_with_arrow: &nbsp; perezcpt@gmail.com
 ### Languages & Tools:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code> 
