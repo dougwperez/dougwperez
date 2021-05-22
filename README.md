@@ -1,5 +1,5 @@
 
-### &nbsp;👋  &nbsp; Hi there! I'm Doug Perez. &nbsp; 👇  &nbsp; Check out my Portfolio!  
+### &nbsp;👋  &nbsp; Hi there! I'm Doug. &nbsp; 👇  &nbsp; Check out my Portfolio!  
 
 - :pushpin: &nbsp; **PORTFOLIO:** https://www.douglaswperez.com :pushpin:  
 - :heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/
