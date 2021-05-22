@@ -1,7 +1,7 @@
 
 ### &nbsp;👋  &nbsp; Hi there! I'm Doug. &nbsp; Feel free to check out my Portfolio!  
 
- :pushpin: &nbsp; **PORTFOLIO:** https://www.douglaswperez.com &nbsp; 👈
+ :pushpin: &nbsp; **PORTFOLIO:** https://www.douglaswperez.com &nbsp; 👈  <br/>
  :heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/ <br/>
  📍&nbsp; **Location:** San Franciso Bay Area, CA  
 ### Languages & Tools:
