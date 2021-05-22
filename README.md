@@ -3,7 +3,7 @@
 
  :pushpin: &nbsp; **Portfolio:** https://www.douglaswperez.com &nbsp; 👈 <br/>
  :heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/ <br/>
- :round_pushpin: &nbsp; **Location:** San Franciso Bay Area, CA <br/> Check Mark on Messenger 1.0
+ :round_pushpin: &nbsp; **Location:** San Franciso Bay Area, CA <br/> 
  :envelope_with_arrow: &nbsp; **Email:** perezcpt@gmail.com <br/>
  
 ### Languages & Tools:
