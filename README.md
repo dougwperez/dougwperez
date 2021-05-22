@@ -1,9 +1,9 @@
 
 ### &nbsp;👋  &nbsp; Hi there! I'm Doug.  👇  &nbsp; Check out my Portfolio!  
 
-- :pushpin: &nbsp; **PORTFOLIO:** https://www.douglaswperez.com :pushpin:  
-- :heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/
-- :heavy_check_mark: &nbsp; Based in San Franciso Bay Area, CA  
+ :pushpin: &nbsp; **PORTFOLIO:** https://www.douglaswperez.com :pushpin:  
+ :heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/
+ :heavy_check_mark: &nbsp; Based in San Franciso Bay Area, CA  
 
 ### Languages & Tools:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> 
