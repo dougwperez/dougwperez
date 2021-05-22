@@ -1,10 +1,11 @@
 
 ### &nbsp;👋  &nbsp; Hi there, I'm Doug! &nbsp; Please feel free to check out my [Developer Portfolio.](https://www.douglaswperez.com/)
 
- :pushpin: &nbsp; **Portfolio:** https://www.douglaswperez.com &nbsp;👈 <br/>
+ :pushpin: &nbsp; **Portfolio:** https://www.douglaswperez.com &nbsp :point_left: <br/>
  :heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/ <br/>
  :round_pushpin: &nbsp; **Location:** San Franciso Bay Area, CA <br/>
  :envelope_with_arrow: &nbsp; **Email:** perezcpt@gmail.com <br/>
+ 👈
  
 ### Languages & Tools:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> 
