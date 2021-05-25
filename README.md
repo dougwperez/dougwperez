@@ -3,9 +3,9 @@
 
  &nbsp;&nbsp;&nbsp;:pushpin: &nbsp; **Portfolio:** https://www.douglaswperez.com &nbsp; :pushpin: <br/>
  &nbsp;&nbsp;&nbsp;:heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/ <br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp; **Location:** San Franciso Bay Area, CA <br/> 
+ &nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp; **Location:** San Franciso Bay Area, CA <br/> 
 <!--  :envelope_with_arrow: &nbsp; **Email:** perezcpt@gmail.com <br/> -->
-### &nbsp;&nbsp; Languages & Tools:
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Languages & Tools:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
