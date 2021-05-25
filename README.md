@@ -1,5 +1,5 @@
 
-### &nbsp;👋  &nbsp; Hi there, I'm Doug! &nbsp; Please check out my [Developer Portfolio.](https://www.douglaswperez.com/)
+### 👋  &nbsp; Hi there, I'm Doug! &nbsp; Please check out my [Developer Portfolio.](https://www.douglaswperez.com/)
 
  &nbsp;&nbsp;&nbsp;:pushpin: &nbsp; **Portfolio:** https://www.douglaswperez.com &nbsp; :pushpin: <br/>
  &nbsp;&nbsp;&nbsp;:heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/ <br/>
