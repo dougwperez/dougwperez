@@ -2,7 +2,7 @@
 ### 👋  &nbsp; Hi there, I'm Doug! &nbsp; Please check out my [Developer Portfolio.](https://www.douglaswperez.com/)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pushpin: &nbsp; **Portfolio:** https://www.douglaswperez.com &nbsp; :pushpin:\
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/\
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/ \
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp; **Location:** San Franciso Bay Area, CA\
 <!--  :envelope_with_arrow: &nbsp; **Email:** perezcpt@gmail.com <br/> -->
 ### Languages & Tools:
