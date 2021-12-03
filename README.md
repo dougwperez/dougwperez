@@ -21,3 +21,6 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code> 
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="doug-perez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/doug-perez?trk=profile-badge">Doug Perez</a></div>
+              
+
