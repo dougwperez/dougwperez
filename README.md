@@ -6,7 +6,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp; **Location:** San Franciso Bay Area, CA  
 <!--  :envelope_with_arrow: &nbsp; **Email:** perezcpt@gmail.com <br/> --> 
 
-a
+
 ### Languages & Tools: 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
