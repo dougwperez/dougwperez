@@ -1,9 +1,9 @@
 
 ### 👋  &nbsp; Hi there, I'm Doug! &nbsp;Please check out my [Developer Portfolio.](https://www.douglaswperez.com/)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; **Portfolio:** https://www.douglaswperez.com \
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: &nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/ \
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp; **Location:** Reno, NV
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Portfolio:** https://www.douglaswperez.com \
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/ \
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Location:** Reno, NV
 <!--  :envelope_with_arrow: &nbsp; **Email:** perezcpt@gmail.com <br/> --> 
 ### Languages & Tools: 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
