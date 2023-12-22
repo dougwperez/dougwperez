@@ -1,7 +1,7 @@
 
 ### 👋  &nbsp; Hi there, I'm Doug! &nbsp;Please check out my [Developer Portfolio.](https://www.douglaswperez.com/)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Portfolio:** https://www.douglaswperez.com \
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- &nbsp; **Portfolio:** https://www.douglaswperez.com \
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/ \
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Location:** Reno, NV
 <!--  :envelope_with_arrow: &nbsp; **Email:** perezcpt@gmail.com <br/> --> 
