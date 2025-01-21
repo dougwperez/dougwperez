@@ -6,7 +6,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✓&nbsp; **Location:** Reno, NV 
 <!--  :envelope_with_arrow: &nbsp; **Email:** perezcpt@gmail.com <br/> --> 
 ### Languages & Tools: 
-<code><img height="50" style="background: transparent; border-radius: 5px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
