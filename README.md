@@ -4,9 +4,9 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✓&nbsp; **Portfolio:** https://www.douglaswperez.com \
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✓&nbsp; **LinkedIn:** https://www.linkedin.com/in/doug-perez/ \
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✓&nbsp; **Location:** Reno, NV 
-<!--  :envelope_with_arrow: &nbsp; **Email:** perezcpt@gmail.com <br/> --> 
+<!--  :envelope_with_arrow: &nbsp; **Email:** perezcpt@gmail.com <br/> -->  x
 ### Languages & Tools: 
-<code><img  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
